@@ -8,3 +8,4 @@ Leave summary admin -means view the summary of leave requests(for admin)
 
 
 LINK:-https://diamond.neonicz.com/LoginServlet
+#humanresource
